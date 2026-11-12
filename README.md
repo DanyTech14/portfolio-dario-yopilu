@@ -99,7 +99,6 @@ Você pode publicar facilmente em qualquer hospedagem de sites estáticos:
 - Instagram: [@dany.design_](https://www.instagram.com/dany.design_)
 - Behance: [dany-design](https://www.behance.net/dany-design)
 - LinkedIn: [Dário Yopilu](https://www.linkedin.com/in/d%C3%A1rio-yopilu-863b063a7)
-- Site original (referência): [dario-yopilu.netlify.app](https://dario-yopilu.netlify.app/)
 
 ## 🙏 Créditos
 
