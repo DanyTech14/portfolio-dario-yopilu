@@ -31,7 +31,7 @@ O código foi organizado para ser **legível e fácil de manter** (arquivos form
 - **Portfólio interativo** com filtros por categoria e 9 projetos
 - **Modal de projeto** com imagem 4:5, descrição, tags e navegação entre itens
 - **Seções completas**: Sobre, Serviços, Portfólio, Habilidades e Contacto
-- **Formulário de contacto** que abre conversa no WhatsApp com mensagem pré-preenchida
+- **Formulário de contacto** que direciona para conversa no WhatsApp
 - **Efeitos visuais**: reveal no scroll, barras de skill animadas, contadores, tilt 3D e cursor personalizado (em dispositivos compatíveis)
 
 ## 🧰 Tecnologias
@@ -83,7 +83,7 @@ Depois, acesse: `http://localhost:8000` (ou a porta indicada).
 - **Cores, layout e animações:** edite `css/style.css` (variáveis em `:root`)
 - **Projetos do modal:** atualize o array `projectsData` em `js/main.js`
 - **Cards do portfólio:** ajuste os blocos `.project-card` em `index.html` (IDs e categorias)
-- **Contacto/links:** atualize email, telefone, redes sociais e número do WhatsApp em `index.html` e `js/main.js`
+- **Contacto/links:** atualize email, telefone, redes sociais e link do WhatsApp em `index.html` e `js/main.js`
 - **CV:** substitua `cv-dario-yopilu.pdf` e o link de download no hero
 
 ## 🌐 Deploy
@@ -98,7 +98,7 @@ Você pode publicar facilmente em qualquer hospedagem de sites estáticos:
 **Dário Yopilu** — Designer Gráfico  
 - Instagram: [@dany.design_](https://www.instagram.com/dany.design_)
 - Behance: [dany-design](https://www.behance.net/dany-design)
-- LinkedIn: [Dário Yopilu](https://www.linkedin.com/in/d%C3%A1rio-yopilu-863b063a7)
+- LinkedIn: [Dário Yopilu](https://www.linkedin.com/in/dany-design-013877408)
 
 ## 🙏 Créditos
 

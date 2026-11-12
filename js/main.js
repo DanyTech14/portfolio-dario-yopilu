@@ -660,9 +660,7 @@ function handleSubmit(e) {
         text += `\n*Mensagem:*\n${message}\n\n*O meu número:* ${phone}`;
     }
 
-    const encodedText = encodeURIComponent(text);
-    const whatsappNumber = "244928427761";
-    const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodedText}`;
+    const whatsappUrl = "https://wa.link/puhmju";
 
     window.open(whatsappUrl, "_blank");
     form.reset();
